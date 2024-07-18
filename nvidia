@@ -1,5 +1,5 @@
 # Block list for nvidia shield updates and banner ads
 
-0.0.0.0 androidtvwatsonfe-pa.googleapis.com
-0.0.0.0 ota.nvidia.com
-0.0.0.0 ota-downloads.nvidia.com
+androidtvwatsonfe-pa.googleapis.com
+ota.nvidia.com
+ota-downloads.nvidia.com
