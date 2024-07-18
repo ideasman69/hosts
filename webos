@@ -1,8 +1,15 @@
 ## Block webos telemetry and OS updates
 
-## Update domain
+## WebOS Updates
 snu.lge.com
 
-## Tracking
-au.rdx2.lgtvsdp.com
-AU.lgtvsdp.com
+## WebOS Tracking
+*.lgtviot.com
+*.lgtvcommon.com
+*.ibs.lgappstv.com
+lgtvonline.lge.com
+hbbtv.oztam.com.au
+
+## Netflix
+ichnaea.netflix.com
+customerevents.netflix.com
