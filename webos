@@ -11,8 +11,9 @@ snu.lge.com
 lgtvonline.lge.com
 
 ## Netflix
-ichnaea.netflix.com
-customerevents.netflix.com
+## ichnaea.netflix.com
+## customerevents.netflix.com
+*.netflix.com
 
 ## Other
 discovery.meethue.com
