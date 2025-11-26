@@ -1,24 +1,24 @@
 ## Block WebOS telemetry and OS updates
 
 ## WebOS Updates
-snu.lge.com
+||snu.lge.com^
 
 ## WebOS Tracking
-*.lgtviot.com
-*.lgtvcommon.com
-*.lgappstv.com
-*.lgsmartad.com
-*.oztam.com.au
-lgtvonline.lge.com
-www.ueiwsp.com
+||lgtviot.com^
+||lgtvcommon.com^
+||lgappstv.com^
+||lgsmartad.com^
+||oztam.com.au^
+||lgtvonline.lge.com^
+||ueiwsp.com^
 
 ## Netflix
 ## ichnaea.netflix.com
 ## customerevents.netflix.com
-*.netflix.com
+||netflix.com^
 
 ## Disney
-*.bamgrid.com
+||bamgrid.com^
 
 ## Other
-discovery.meethue.com
+||discovery.meethue.com^
